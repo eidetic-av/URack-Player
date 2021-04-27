@@ -1,0 +1,3 @@
+[submodule "Assets/URack-Collection"]
+	path = Assets/URack-Collection
+	url = https://github.com/eidetic-av/URack-Collection.git
