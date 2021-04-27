@@ -1,20 +1,22 @@
 {
   "dependencies": {
     "com.eidetic.pointclouds": {
-      "version": "file:C:/PointClouds",
+      "version": "https://github.com/eidetic-av/UnityPointClouds.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.visualeffectgraph": "7.3.1"
-      }
+      },
+      "hash": "53d270f4ac7b48c5477a2df4fec76fbfc61b7562"
     },
     "com.eidetic.urack": {
-      "version": "file:C:/URack-Unity",
+      "version": "https://github.com/eidetic-av/URack-Unity.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.visualeffectgraph": "7.3.1"
-      }
+      },
+      "hash": "8cb6ae35a118d5a722c4721cdc083e310536c1fd"
     },
     "com.unity.mathematics": {
       "version": "1.2.1",

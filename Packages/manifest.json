@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.eidetic.pointclouds": "file:C:/PointClouds",
-    "com.eidetic.urack": "file:C:/URack-Unity",
+    "com.eidetic.pointclouds": "https://github.com/eidetic-av/UnityPointClouds.git",
+    "com.eidetic.urack": "https://github.com/eidetic-av/URack-Unity.git",
     "com.unity.mathematics": "1.2.1",
     "com.unity.render-pipelines.high-definition": "7.5.3",
     "com.unity.render-pipelines.high-definition-config": "7.5.3",
